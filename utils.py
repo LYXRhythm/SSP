@@ -11,7 +11,7 @@ def str2bool(v):
         raise argparse.ArgumentTypeError('Boolean value expected.')
 
 def get_training_args():
-    parser = argparse.ArgumentParser(description='SEHA')
+    parser = argparse.ArgumentParser(description='SSP')
     parser.add_argument("--dataset", type=str, default="wiki", help="Dataset to use (wiki, nus-wide, INRIA-Websearch, xmedianet)")
     parser.add_argument("--seed", type=int, default=123)
     parser.add_argument("--partial_ratio", type=float, default=0.4)
