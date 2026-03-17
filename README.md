@@ -1,4 +1,4 @@
-# SEHA
+# SSP
 # Learning by Survival: Semantic Survivor Principle for Cross-Modal Retrieval with Partial Labels
 
 Official implementation of the paper **"Learning by Survival: Semantic Survivor Principle for Cross-Modal Retrieval with Partial Labels"**.
