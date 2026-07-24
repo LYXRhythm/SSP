@@ -26,7 +26,7 @@ pip install numpy pandas scikit-learn tqdm matplotlib
 ### Single Task
 
 ```bash
-python train.py --dataset wiki --partial_ratio 0.1 --lr 1e-4
+python train.py --dataset wiki --partial_length 3 --lr 1e-4
 ```
 
 ### Batch Task
