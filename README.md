@@ -26,7 +26,7 @@ pip install numpy pandas scikit-learn tqdm matplotlib
 ### Single Task
 
 ```bash
-python train.py --dataset wiki --partial_length 3 --lr 1e-4 # wiki, nus-wide, INRIA-Websearch, xmedianet
+python train.py --dataset wiki --partial_length 3 --lr 1e-4
 ```
 
 ### Batch Task
