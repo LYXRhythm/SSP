@@ -33,7 +33,7 @@ python train.py --dataset wiki --partial_length 3 --lr 1e-4
 
 Run preconfigured batch experiments for each dataset:
 
-wiki:
+Wikipedia:
 ```bash
 bash run_wiki.sh
 ```
